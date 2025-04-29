@@ -1,0 +1,9 @@
+{
+  "cds": {
+    "requires": {
+      "destinations": true,
+      "html5-runtime": true,
+      "html5-host": true
+    }
+  }
+}
